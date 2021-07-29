@@ -1,0 +1,144 @@
+
+/* ====Google Fonts Links Here=== */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+
+.header-color{
+    background-color: #264653;
+}
+.header-h1{
+    font-weight: 600;
+    font-size: 48px;
+}
+.header-p{
+    font-size: 16px;
+    color: #E0E0E0;
+    font-weight: 300;
+}
+.header-btn{
+    background-color: #E76F51;
+}
+.filter{
+    filter: grayscale(1);
+}
+.fetured-title{
+    font-size:3rem;
+    font-weight: 600;
+    line-height: 4.5rem;
+}
+.fetured-p{
+    color: #E76F51;
+    font-size: 1rem;
+    font-weight: 600;
+}
+.fetured-pictures{
+    margin-top: 7.5rem;
+    margin-bottom: 10.2rem;
+}
+.fetured-img{
+    width: 75vw;
+}
+.client-card{
+    width: 322px;
+    height: 479px;
+    padding: 40px 35px 40px 35px;
+    border-radius: 5px;
+    margin: 20px;
+}
+.card-img-div{
+    width: 149px;
+    height: 149px;
+    margin: auto;
+    margin-bottom: 30px;
+}
+.stars, .clients-says{
+    color: #E77C40;
+}
+.card-text{
+    font-size: 16px;
+    font-weight: 400;
+}
+.clients-section-title{
+    font-size: 3rem;
+    margin-bottom: 3.3rem;
+    font-weight: 600;
+}
+.img-no-3{
+    width: 149px;
+    height: 149px;
+
+}
+
+.faq-section {
+    margin-top: 6rem;
+}
+
+.faq-title{
+    font-size: 3rem;
+    line-height: 3.2rem;
+    margin-bottom: 4rem;
+}
+.faq-title span{
+    color: #E76F51;
+}
+.helmetes-section-title{
+    margin-top: 6rem;
+    margin-left: 3rem;
+    margin-bottom: 3rem;
+}
+.helmets-card{
+    width: 270px;
+    height: 100%;
+    
+}
+
+.helmets-card-btn{
+    background-color: black;
+    color: white;
+    font-weight: 500;
+    border: none;
+    padding: 10px 12px ;
+    border-radius: 5px;
+    transition: all 0.5s;
+}
+.helmets-card-btn:hover{
+    background-color: transparent;
+    border: 1px solid black;
+    color: black;
+}
+.newsletter{
+    background-color: #651FFF;
+    padding: 30px 20px 30px 20px;
+    border-radius: 0.50rem;
+    
+}
+
+.news-letter-section{
+    margin-top: 8rem;
+    margin-bottom: 3rem;
+}
+.news-letter-title{
+    font-size: 1.9rem;
+    margin-top: 4rem;
+}
+.news-letter-btn{
+    background-color:white;
+    color: black;
+    border: none;
+    padding: 1rem 1.3rem ;
+    border-radius: 5px;
+    transition: all 0.5s;
+}
+.news-letter-btn:hover{
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+}
+.news-letter-input{
+    margin-bottom: 5rem;
+}
